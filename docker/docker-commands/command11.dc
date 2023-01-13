@@ -1,1 +1,1 @@
-docker build ./todo-app/tests -t todotest
+docker build -t todotests ./todo-app/tests
